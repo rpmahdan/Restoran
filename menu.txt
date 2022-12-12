@@ -1,0 +1,12 @@
+===MEALS
+ME01;Chicken Teriyaki;23000;1
+ME02;Chicken Katsu;210000;3
+ME03;Dori Ricebowl;22000,2
+===DRINKS
+D01;LemonTea;15000;3
+D02;IcedTea;10000;4
+D03;CaramelMachiato;18000;2
+===SIDES
+S01;Asparagus;10000;1
+S02;MashedPotato;14000;3
+S03;SaladPasta;16000;4
